@@ -1,0 +1,1 @@
+“FINDING THE PLASMA DONOR” is a C Project, which is based on the current situation. We all know the important of plasma who are suffering from COVID-19 , our project is mainly about finding the people who are interested to donate plasma .  
